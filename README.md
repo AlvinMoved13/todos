@@ -1,4 +1,4 @@
 # todos
 
-A new Flutter project.
+A new Flutter project integrate Firebase
 # todos
